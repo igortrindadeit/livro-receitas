@@ -2,5 +2,6 @@
 
 Olá! Bem vindo ao meu livro de receitas:wave:
 
-- Strogonoff de frando
+- Strogonoff de frango
+- Pavê
 
